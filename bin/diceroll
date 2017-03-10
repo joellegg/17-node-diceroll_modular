@@ -1,0 +1,2 @@
+#!/usr/bin/env node
+console.log('joel, you\'re doing it!')
